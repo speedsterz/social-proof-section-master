@@ -89,7 +89,7 @@ h2 {
 }
 .star {
   margin-top: 1rem;
-  background-image: url(/images/icon-star.svg);
+  background-image: url(../images/icon-star.svg);
   background-repeat: repeat-x;
   width: 8.5rem;
   height: 1.7rem;
